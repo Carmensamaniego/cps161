@@ -1,0 +1,2 @@
+This is my txt file... for experiments!
+right click cps161 folder, select "show in local terminal", then "terminal"
