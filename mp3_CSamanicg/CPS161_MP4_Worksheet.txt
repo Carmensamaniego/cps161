@@ -1,0 +1,42 @@
+MP4 worksheet
+
+Comments:
+
+
+
+***************** roman_calculator   *****************
+roman_calculator  output as specified in the MP4 homework.
+____________________________________
+
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+	at mp4_csamanicg/roman_calculator.RomanNumbers.main(RomanNumbers.java:66)
+
+
+
+*****************Book    *****************
+Book output as specified in the MP4 homework.
+____________________________________
+
+
+
+
+Enter book name: one
+Enter author first name: c
+Enter author last name: s
+Enter author birthday(yyyy-mm-dd): 2021-02-11
+Enter isbn: 123456789
+Enter the book price: 3.99
+
+
+Book [one by c s(birthday: 2021-02-11) isbn=123456789, price=3.99]
+Enter book name: Enter author first name: two
+Enter author last name: a
+Enter author birthday(yyyy-mm-dd): 2000-10-12
+Enter isbn: 987654321
+Enter the book price: 5.67
+
+
+Book [ by two a(birthday: 2021-02-11) isbn=987654321, price=5.67]
+
+ Are the books the same? false

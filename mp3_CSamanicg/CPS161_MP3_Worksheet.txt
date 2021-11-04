@@ -1,0 +1,99 @@
+MP3 worksheet
+
+Comments:
+I had the tring methods running before and then I broke it when I 
+tried to fix some things.
+
+
+
+***************** newton    *****************
+Newton Square root output as specified in the MP3 homework.
+____________________________________
+
+Enter N for Newton 
+200
+14.142135623730951
+
+
+*****************string_methods    *****************
+string_methods output as specified in the MP3 homework.
+____________________________________
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	c cannot be resolved to a variable
+	The method printCounts(char, char, int, int) in the type MyStringMethods is not applicable for the arguments (String, char, int, int)
+	The method printCounts(char, char, int, int) in the type MyStringMethods is not applicable for the arguments (String, char, int, int)
+
+	at mp3_CSamanicg/string_methods.MyStringMethods.main(MyStringMethods.java:118)
+
+
+
+
+***************** ATM Simulation    *****************
+
+ATM Simulation output as specified in the MP3 homework.
+____________________________________
+Main Menu:
+***********
+1. Check balance
+2. Withdraw
+3. Deposit
+4. Exit
+***********
+Make a selection 
+1
+Your balance is: 100.0
+Main Menu:
+***********
+1. Check balance
+2. Withdraw
+3. Deposit
+4. Exit
+***********
+Make a selection 
+2
+How much would you like to withdraw: 200
+Insufficient funds.
+Main Menu:
+***********
+1. Check balance
+2. Withdraw
+3. Deposit
+4. Exit
+***********
+Make a selection 
+2
+How much would you like to withdraw: 50
+You have withdrawn 50.0
+
+Main Menu:
+***********
+1. Check balance
+2. Withdraw
+3. Deposit
+4. Exit
+***********
+Make a selection 
+3
+Enter deposit amount: 
+200
+You made a deposit of 200.0
+Main Menu:
+***********
+1. Check balance
+2. Withdraw
+3. Deposit
+4. Exit
+***********
+Make a selection 
+1
+Your balance is: 250.0
+Main Menu:
+***********
+1. Check balance
+2. Withdraw
+3. Deposit
+4. Exit
+***********
+Make a selection 
+4
+Goodbye
